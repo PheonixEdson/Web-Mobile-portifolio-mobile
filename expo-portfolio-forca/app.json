@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "portfolio-expo",
+    "slug": "portfolio-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["expo-router"]
+  }
+}
